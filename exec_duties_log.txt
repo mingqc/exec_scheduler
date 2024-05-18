@@ -1,0 +1,30 @@
+WARNING: Jack Wang did not receive enough training sessions. Assigned: 1
+
+WARNING: Yang Lu did not receive enough training sessions. Assigned: 1
+
+WARNING: Tina Qiu did not receive enough training sessions. Assigned: 1
+
+Total number of duties (including pre-term duties): 207
+Total number of execs: 20
+Average expected number of duties per exec: 10.35
+
+Jungwoo Kim, total number of duties: 11
+Ayyappan Arunachalam, total number of duties: 11, training duties not included
+Felix Ren, total number of duties: 10
+Molly Kim, total number of duties: 10, pre-term duties: 2
+Rain Luo, total number of duties: 10, training duties not included
+Richard Zhang, total number of duties: 11, pre-term duties: 3
+Max Jin, total number of duties: 11, pre-term duties: 3
+Ian MacDonald, total number of duties: 10, pre-term duties: 3
+Bernard Lucas, total number of duties: 11
+Thomas Penner, total number of duties: 10, pre-term duties: 3
+Andre Wen, total number of duties: 10, training duties not included
+Howard Chan, total number of duties: 10
+Lisa Huynh, total number of duties: 10
+August Tan, total number of duties: 10, training duties not included
+Ethan Truong, total number of duties: 11, training duties not included
+Darren Shui, total number of duties: 10, training duties not included
+Jack Wang, total number of duties: 10, training duties not included
+Yang Lu, total number of duties: 10, training duties not included
+Tina Qiu, total number of duties: 10, training duties not included
+Hubert Phu, total number of duties: 11
