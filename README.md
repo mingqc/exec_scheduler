@@ -58,7 +58,8 @@ This reads from the generated CSV and log files to check that:
 The resulting output is in `exec_duties_schedule.csv`. This can be imported directly into Google Calendar:
 1. Go to Calendar
 2. Click on the Settings Gear Icon
-3. Select `Import`
+3. Select `Import and Export`
+4. Upload file from computer
 
 For more information, view the logs at `exec_duties_log.txt`.
 
